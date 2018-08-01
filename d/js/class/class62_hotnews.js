@@ -1,0 +1,1 @@
+document.write("<li><a href=\"/news/companynews/2016-12-22/81.html\" title=\"test3\"><s><i><strong><font color=\'#336699\'>test3</font></strong></i></s></a></li><li><a href=\"/news/companynews/2016-12-22/79.html\" title=\"test1\">test1</a></li>");
